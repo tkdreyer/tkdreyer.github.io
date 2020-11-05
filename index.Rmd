@@ -2,4 +2,4 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+Hej og velkommen til dette fantastiske site.
